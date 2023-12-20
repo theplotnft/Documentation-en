@@ -2,7 +2,7 @@
 # Website
 ## Webhosting
 ## Getting started
-# Beleuchtung
+# Illumination
 ## LED Control
 ## LED Driver
 ## LED Stripes

@@ -12,7 +12,7 @@
 # Pen
 # Blockchain
 ## Technology
-## Smart contract
+## Smart Contract
 # NFT marketplace
 ## OpenSea
 # Validator

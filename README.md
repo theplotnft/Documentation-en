@@ -1,6 +1,7 @@
 # documentation-en
 # Website
 ## Webhosting
+## Getting started
 # Beleuchtung
 ## LED Control
 ## LED Driver
@@ -10,9 +11,11 @@
 # Canvas
 # Pen
 # Blockchain
-## Polygon
+## Technology
+## Smart contract
+# NFT marketplace
 ## OpenSea
-## NFT
 # Validator
 # Camera
 # Livestream
+# Privacy policy
